@@ -66,9 +66,9 @@ public class Main {
 //            int number = scanner.nextInt();
 //
 //            if (number != 0) {
-//                sum += number; // Add the entered number to the sum
+//                sum += number; 
 //            } else {
-//                continueInput = false; // Stop the loop if the user enters 0
+//                continueInput = false; 
 //            }
 //        }
 //        System.out.println("The sum of the numbers entered is: " + sum);
